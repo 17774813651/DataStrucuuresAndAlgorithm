@@ -1,0 +1,6 @@
+C:\Users\34388\Desktop\百钱百鸡\百钱百鸡\bin\Debug\百钱百鸡.exe.config
+C:\Users\34388\Desktop\百钱百鸡\百钱百鸡\bin\Debug\百钱百鸡.exe
+C:\Users\34388\Desktop\百钱百鸡\百钱百鸡\bin\Debug\百钱百鸡.pdb
+C:\Users\34388\Desktop\百钱百鸡\百钱百鸡\obj\Debug\百钱百鸡.csprojResolveAssemblyReference.cache
+C:\Users\34388\Desktop\百钱百鸡\百钱百鸡\obj\Debug\百钱百鸡.exe
+C:\Users\34388\Desktop\百钱百鸡\百钱百鸡\obj\Debug\百钱百鸡.pdb
